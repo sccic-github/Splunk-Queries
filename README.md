@@ -10,7 +10,9 @@
 
 ## **Configuring Displayed Data**
 
-This query demonstrates how to project only wanted values
+This query demonstrates how to project only wanted values.
+
+Specifically this query shows eash URL every IP by user agent went to.
 
 ```
 sourcetype=suricata event_type=http
